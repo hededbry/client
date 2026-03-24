@@ -9,7 +9,7 @@
   -->
   <div class="flex min-h-full flex-1 flex-col justify-center py-12 sm:px-6 lg:px-8">
     <div class="sm:mx-auto sm:w-full sm:max-w-md">
-      <img class="mx-auto h-40 w-auto" src="C:\Users\PC1\Downloads\logo.avif" alt="Your Company" />
+      <img class="mx-auto h-40 w-auto" src="" alt="Your Company" />
       <h2 class="mt-6 text-center text-2xl/9 font-bold tracking-tight text-blue-900">Sign in to your account</h2>
     </div>
 
